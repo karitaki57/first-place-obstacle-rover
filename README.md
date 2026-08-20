@@ -1,5 +1,7 @@
 HOW THE CAR WORKS
 
+The code and wiring are in the same folder
+
 This section explains the complete working of the ROVER — a 4WD Bluetooth-controlled competition RC car — from the moment a command is sent on the mobile app to the wheels physically moving.
 
 Signal flow:
